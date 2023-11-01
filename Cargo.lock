@@ -305,7 +305,7 @@ dependencies = [
  "sqlx",
  "subtle-encoding",
  "tendermint",
- "tendermint-proto 0.32.2",
+ "tendermint-proto 0.33.1",
  "tendermint-rpc",
  "thiserror",
  "time",
